@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Ko-s-y/kanban/issues"
   },
-  "homepage": "https://github.com/Ko-s-y/kanban#readme"
+  "homepage": "https://github.com/Ko-s-y/kanban#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
 }
